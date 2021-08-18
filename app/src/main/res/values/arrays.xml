@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="markericons">
+        <item>@drawable/arrowred</item>
+        <item>@drawable/arrowblue</item>
+        <item>@drawable/arrowblack</item>
+    </array>
+
+</resources>
